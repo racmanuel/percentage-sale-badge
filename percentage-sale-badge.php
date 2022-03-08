@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Percentage to Sale Badge - WooCommerce
- * Description:       Change the default sale badge to a percentage of sale, works perfect with Hello Theme, Storefront.
+ * Description:       WordPress plugin to change the default sale badge in woocommerce, by the discount percentage of a product, works with variable and simple products.
  * Version:           1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
